@@ -2,7 +2,7 @@
 
 ## À propos
 
-Développeur spécialisé dans la programmation système et les outils d'administration. Mon expertise se concentre sur le développement d'applications réseau et d'outils de gestion système, principalement avec Python et C#.
+Développeur spécialisé dans la programmation système et les outils d'administration. Mes projets se concentrent sur le développement d'applications réseau et d'outils de gestion système, principalement avec Python et C#.
 
 ## Compétences techniques
 
