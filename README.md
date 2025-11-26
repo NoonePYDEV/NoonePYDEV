@@ -44,9 +44,9 @@ Détecteur d'événements de périphériques de stockage développé en C#. Appl
 
 ## Statistiques
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=NoonePYDEV&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![Statistiques GitHub](https://ghrs-two.vercel.app/api?username=NoonePYDEV&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoonePYDEV&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Langages](https://ghrs-two.vercel.app/api/top-langs/?username=NoonePYDEV&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
 ---
 
