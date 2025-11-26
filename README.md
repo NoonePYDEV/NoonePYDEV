@@ -36,7 +36,7 @@ Détecteur d'événements de périphériques de stockage développé en C#. Appl
 
 ## Domaines d'expertise
 
-- Sécurité informatique et administration système
+- Sécurité informatique 
 - Développement d'outils réseau
 - Automatisation de tâches système
 - Programmation système Windows
