@@ -17,22 +17,7 @@ Développeur spécialisé dans la programmation système et les outils d'adminis
 - Gestion des événements système
 - Architecture client-serveur
 
-## Projets
-
-### RemoteFileExplorer
-Explorateur de fichiers à distance développé en Python. Solution permettant la gestion et la navigation de systèmes de fichiers via une connexion réseau.
-
-**Technologies utilisées :** Python, Programmation réseau, Manipulation de systèmes de fichiers
-
-### BestDiscordRAT
-Outil d'administration à distance basé sur Discord, offrant de nombreuses fonctionnalités de gestion système via une interface Discord.
-
-**Technologies utilisées :** Python, Discord API, Administration système
-
-### SimpleDriveEventDetector
-Détecteur d'événements de périphériques de stockage développé en C#. Application permettant de surveiller les connexions et déconnexions de lecteurs en temps réel.
-
-**Technologies utilisées :** C#, Windows API, Gestion d'événements système
+**Compétences :** C#, Python, API Windows, Gestion d'événements système, Réseau
 
 ## Domaines d'expertise
 
