@@ -11,6 +11,7 @@ Développeur spécialisé dans la programmation système et les outils d'adminis
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ### Technologies
+- UI avec Python et C#
 - Administration système Windows
 - Développement d'applications réseau
 - API Discord
